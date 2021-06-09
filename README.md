@@ -2,7 +2,7 @@
 
 # PING-PONG X - Çevrim içi tenis oyunu
 
-### Özellikleri
+### Özellikler
 -----
 * Unity Oyun motoru ile tasarlandı
 * PhotonNetwork PUN2 kütüphanesi kullanıldı
