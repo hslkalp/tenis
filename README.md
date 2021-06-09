@@ -1,6 +1,6 @@
 ![Game Image](https://github.com/hslkalp/tenis/blob/main/ping-pong.png)
 
-# PING-PONG X - Çevrim içi tenis oyunu
+# PING-PONG X - Çevrimiçi tenis oyunu
 
 ### Özellikler
 -----
